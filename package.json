@@ -1,0 +1,16 @@
+{
+  "name": "Augusto_Torres_Clase6",
+  "version": "1.0.0",
+  "description": "servidor en express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
